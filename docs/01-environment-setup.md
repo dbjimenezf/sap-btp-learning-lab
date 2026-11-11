@@ -16,7 +16,7 @@ The objective is to establish a cloud-based development environment for learning
 | Region | US East (Virginia) |
 | Global Account | Trial account |
 | Subaccount | trial |
-| Organization | Trial organization |
+| Organization | SAP-generated trial organization |
 | Space | dev |
 
 ## 3. Prerequisites
